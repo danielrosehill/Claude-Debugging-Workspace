@@ -1,3 +1,5 @@
+[![Part of the Claude Code Repos Index](https://img.shields.io/badge/Claude%20Code%20Repos-Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+
 # Claude Debugging Workspace
 
 A template repository for systematic debugging with Claude Code - for technical bugs *and beyond*.
@@ -75,3 +77,7 @@ Persistent problems persist because they resist simple solutions. The debugging 
 ## License
 
 MIT - Use and adapt freely.
+
+---
+
+For more Claude Code projects, visit my [Claude Code Repos Index](https://github.com/danielrosehill/Claude-Code-Repos-Index).
